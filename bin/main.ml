@@ -1,3 +1,4 @@
-open Mylib
 
-print_string "Hello, World!\n"
+
+let x = Random.int 9 + 1 
+
