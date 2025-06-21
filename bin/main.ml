@@ -1,4 +1,3 @@
+let x = Random.int 9 + 1 (* not 0 *);;
 
-
-let x = Random.int 9 + 1 
-x
+let () = Printf.printf "x = %d\n" x
