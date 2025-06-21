@@ -1,3 +1,3 @@
 open Mylib
 
-let () = Hello.say_hello ()
+print_string "Hello, World!\n"
