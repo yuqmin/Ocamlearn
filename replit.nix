@@ -1,5 +1,6 @@
 { pkgs }: {
   deps = [
+    pkgs.run
     pkgs.ocaml
     pkgs.ocamlformat
     pkgs.opam
